@@ -1,3 +1,11 @@
- → Render
- → Refine
- → Dual output
+Purpose: Format outputs for clarity.
+
+Rules:
+
+Expert summary: technical, precise.
+
+Lay summary: simplified, accessible.
+
+Key findings: 3–7 bullets, ≤25 words each.
+
+Workflow: Render → Refine → Dual outputs.
