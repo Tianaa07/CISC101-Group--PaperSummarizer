@@ -9,3 +9,13 @@ Preserve section order.
 Include required elements if present.
 
 Workflow: For each section → Summarize → Apply constraints → Store.
+
+Include 1-2 sentance summary per section
+
+A short paragraph plus bullet points of 3-5 key points for each section
+
+Add a 'summery_level' to the module's logic
+
+If 'summary_level' = short, generate only a compact summary
+
+If 'summary_level' = detailed, gemerate summary + bullet list
