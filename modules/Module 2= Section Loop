@@ -1,4 +1,11 @@
-  For each section (and chunk if needed)
-   → generate grounded section summaries within PS2 limits
-   → apply constraints
-   → Store
+Purpose: Summarize each section in order.
+
+Rules:
+
+Target ≤120 words, max ≤200.
+
+Preserve section order.
+
+Include required elements if present.
+
+Workflow: For each section → Summarize → Apply constraints → Store.
