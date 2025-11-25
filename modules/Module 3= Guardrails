@@ -1,2 +1,13 @@
-→ Validate that everything is correct 
-→ Pass to renderin
+Purpose: Ensure compliance and safety.
+
+Rules:
+
+No hallucinations: summarize only from text.
+
+Numeric fidelity: preserve reported values.
+
+Missing-section logic: output “Section not provided.”
+
+Chunking: split long text before summarization.
+
+Workflow: Validate → Correct → Pass to rendering.
