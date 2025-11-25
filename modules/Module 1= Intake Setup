@@ -1,3 +1,11 @@
- → Parse and normalize sections
- → Validate
- → Prepare
+Purpose: Collect paper text and user requirements.
+
+Rules:
+
+Verify labeled sections exist.
+
+Record required elements (limitations, key numbers).
+
+Normalize input (chunk long papers).
+
+Workflow: Parse → Validate → Prepare.
