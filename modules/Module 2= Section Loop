@@ -1,1 +1,4 @@
-
+  For each section (and chunk if needed)
+   → generate grounded section summaries within PS2 limits
+   → apply constraints
+   → Store
